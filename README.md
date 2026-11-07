@@ -2,7 +2,7 @@
 
 **[العربية](README.ar.md)**
 
-Website: https://mahmoudfarouk2479.github.io/haris/
+Website: https://tenmatech-digital-solutions.github.io/haris/
 
 A sci-fi holographic assistant for Windows that can actually do things on your PC — open
 apps, manage files, search the web, see your screen, talk and listen — **without trusting the model**.

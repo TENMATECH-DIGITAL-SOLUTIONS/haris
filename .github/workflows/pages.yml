@@ -1,4 +1,4 @@
-# Publishes the website in site/ to GitHub Pages (https://mahmoudfarouk2479.github.io/haris/).
+# Publishes the website in site/ to GitHub Pages (https://tenmatech-digital-solutions.github.io/haris/).
 # One-time setup: Settings -> Pages -> Source: GitHub Actions.
 name: Website
 

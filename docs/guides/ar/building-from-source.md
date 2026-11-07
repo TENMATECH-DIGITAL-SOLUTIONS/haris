@@ -26,7 +26,7 @@
 <div dir="ltr">
 
 ```powershell
-git clone https://github.com/MahmoudFarouk2479/haris.git
+git clone https://github.com/TENMATECH-DIGITAL-SOLUTIONS/haris.git
 cd haris
 .\run.ps1
 ```

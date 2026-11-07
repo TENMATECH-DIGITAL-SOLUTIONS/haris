@@ -23,7 +23,7 @@ Both scripts download the wake-word model once (`vosk-model-small-en-us-0.15`, a
 ## Run from source
 
 ```powershell
-git clone https://github.com/MahmoudFarouk2479/haris.git
+git clone https://github.com/TENMATECH-DIGITAL-SOLUTIONS/haris.git
 cd haris
 .\run.ps1
 ```
